@@ -22,4 +22,4 @@ Este proyecto fue desarrollado por Daniel Lozada (https://github.com/Danii-10)
 como parte de un proyecto personal/Educativo.
 
 # Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
