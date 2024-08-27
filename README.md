@@ -1,23 +1,18 @@
-# Encriptador Web
+# Encriptador de Texto
+Este proyecto ofrece una aplicación web sencilla para cifrar y descifrar texto empleando métodos básicos de encriptación en JavaScript.
 
-Este proyecto consiste en una aplicación web simple para encriptar y desencriptar texto utilizando técnicas básicas de cifrado en JavaScript.
+# Características
+- Cifrado y Descifrado: Permite al usuario introducir texto sin formato y obtener su versión cifrada usando un algoritmo elemental.
 
-## Características
+- Interfaz Intuitiva: Presenta un diseño sencillo con HTML y estilo básico en CSS para una experiencia de usuario clara y directa.
 
-- **Encriptación y Desencriptación:** Permite al usuario ingresar texto plano y obtener su versión encriptada utilizando un algoritmo básico.
-  
-- **Interfaz Simple:** Diseño minimalista con HTML y estilizado con CSS básico para una experiencia de usuario intuitiva.
+- JavaScript: Implementa JavaScript para gestionar la lógica de cifrado y descifrado directamente en el navegador del usuario.
 
-- **JavaScript:** Utiliza JavaScript para manejar la lógica de encriptación y desencriptación directamente en el navegador del cliente.
+# Instalación
+No es necesaria ninguna instalación. Solo debes clonar este repositorio o descargar los archivos y abrirlos en tu navegador.
 
-
-## Instalación
-
-No se requiere instalación. Simplemente clona este repositorio o descarga los archivos y ábrelo en tu navegador.
-
-## Uso
-
-1. Abre `index.html` en tu navegador web.
-2. Ingresa texto en el campo provisto.
-3. Selecciona la opción de encriptar o desencriptar.
-4. Observa el resultado en la pantalla.
+# Uso
+Abre el archivo index.html en tu navegador web.
+Introduce el texto en el campo correspondiente.
+Elige la opción de cifrar o descifrar.
+Revisa el resultado mostrado en la pantalla.
