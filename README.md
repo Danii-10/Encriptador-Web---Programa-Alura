@@ -16,3 +16,10 @@ Abre el archivo index.html en tu navegador web.
 Introduce el texto en el campo correspondiente.
 Elige la opción de cifrar o descifrar.
 Revisa el resultado mostrado en la pantalla.
+
+# Créditos
+Este proyecto fue desarrollado por Daniel Lozada (https://github.com/Danii-10)
+como parte de un proyecto personal/Educativo.
+
+# Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
